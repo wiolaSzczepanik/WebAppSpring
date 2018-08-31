@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="266b2b2a-a4bc-4778-9e4a-bfb5d35faa8e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/webApp/webApp/repositories/AuthorRepository.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/webApp/webApp/repositories/BookRepository.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/webApp/webApp/bootstrap/DevBootstrap.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BookRepository.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BookRepository.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/webApp/webApp/repositories/BookRepository.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
@@ -111,13 +110,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="DevBootstrap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/webApp/webApp/bootstrap/DevBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -138,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/webApp/webApp/model/Book.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/webApp/webApp/repositories/AuthorRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/webApp/webApp/repositories/BookRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/webApp/webApp/bootstrap/DevBootstrap.java" />
       </list>
     </option>
   </component>
@@ -389,12 +399,12 @@
       <updated>1535033786574</updated>
       <workItem from="1535033792078" duration="1093000" />
       <workItem from="1535037296212" duration="4062000" />
-      <workItem from="1535711520335" duration="2604000" />
+      <workItem from="1535711520335" duration="3332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7759000" />
+    <option name="totallyTimeSpent" value="8487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="751" y="-4" width="1863" height="987" extended-state="6" />
@@ -691,6 +701,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/webApp/webApp/bootstrap/DevBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
